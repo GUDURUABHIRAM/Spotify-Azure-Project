@@ -1,0 +1,9 @@
+{
+	"name": "adf-abhiramproject",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "01a622d9-4c88-4967-a55c-b8f9de90cad2",
+		"tenantId": "af29bb8e-f205-4cb4-a1b5-3eecdc2838e4"
+	}
+}
